@@ -39,6 +39,9 @@ alt="[meulink]" height="30" width="40"
         src="https://streak-stats.demolab.com/?user=Karmantinedev&theme=dracula&hide_border=true&locale=pt"
     />
 </a>
+
+---
+
 <p>
   <img 
     align="center" 
