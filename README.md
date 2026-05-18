@@ -6,7 +6,7 @@ Tenho experiência na área de desenvolvimento de software, e sempre estou abert
 
 ---
 ### Me siga em outros lugares!
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/joaopedrogonzaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaopedrogonzaga/" height="30" width="40" /></a>
 <b href="[meulink]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 alt="[meulink]" height="30" width="40"
@@ -29,16 +29,22 @@ alt="[meulink]" height="30" width="40"
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<h3 align="left">GitHub Stats</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Karmantinedev&theme=dracula&hide_border=true&locale=pt)](https://git.io/streak-stats)
-
+<h3 align="center">GitHub Stats</h3>
+<a>
+    <img
+        align="center"
+        alt="githubstreak"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://streak-stats.demolab.com/?user=Karmantinedev&theme=dracula&hide_border=true&locale=pt"
+    />
+</a>
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&show_icons=true&theme=dracula&&hide_border&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&show_icons=true&theme=dracula&hide_border&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 </p>
