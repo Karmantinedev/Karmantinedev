@@ -29,3 +29,16 @@ alt="[meulink]" height="30" width="40"
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+<h3 align="left">GitHub Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Karmantinedev&theme=dracula&hide_border=true&locale=pt)](https://git.io/streak-stats)
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&show_icons=true&theme=dracula&&hide_border&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+  />
+</p>
