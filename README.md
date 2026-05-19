@@ -51,7 +51,7 @@ alt="[meulink]" height="30" width="40"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&show_icons=true&theme=dracula&hide_border&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&hide_border=true&show_icons=true&theme=dracula&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 </b>
 </p>
