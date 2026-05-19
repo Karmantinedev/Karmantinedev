@@ -2,6 +2,7 @@
 
  Olá! Meu nome é João Pedro Gonzaga dos Santos Souza, tenho 20 anos e curso Engenharia de Software na UNB (Universidade de Brasília).
 
+<img align="right" alt="anuhme" height="115px" src="./src/muhanimecode.gif"> 
  Tenho experiência na área de desenvolvimento de software, e sempre estou aberto a novas oportunidades de crescer como programador!
 
 ---
@@ -18,8 +19,6 @@
 ![Mysql](https://img.shields.io/badge/mysql-%23EF4444.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23F38020.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<img align="right" alt="anuhme" height="110px" src="./src/muhanimecode.gif"> 
 
 <h3 align="center">Me siga em outros lugares!</h3>
 
