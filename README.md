@@ -30,6 +30,7 @@ alt="[meulink]" height="30" width="40"
 
 ---
 <h3 align="center">GitHub Stats</h3>
+<p align="center">
 <a>
     <img
         align="center"
@@ -42,7 +43,7 @@ alt="[meulink]" height="30" width="40"
 
 ---
 
-<p>
+<b>
   <img 
     align="center" 
     alt="GitHub Stats" 
@@ -50,4 +51,5 @@ alt="[meulink]" height="30" width="40"
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Karmantinedev&show_icons=true&theme=dracula&hide_border&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
+</b>
 </p>
