@@ -5,7 +5,8 @@ Olá! Meu nome é João Pedro Gonzaga dos Santos Souza, tenho 20 anos e curso En
 Tenho experiência na área de desenvolvimento de software, e sempre estou aberto a novas oportunidades de crescer como programador!
 
 ---
-### Me siga em outros lugares!
+<h2 align="center">Me siga em outros lugares!</h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/joaopedrogonzaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaopedrogonzaga/" height="30" width="40" /></a>
 <b href="[meulink]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
@@ -13,8 +14,7 @@ alt="[meulink]" height="30" width="40"
 ></b> 
 </p>
 
-
-### Linguagens e ferramentas
+<h2 align="center">Linguagens e ferramentas</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,7 @@ alt="[meulink]" height="30" width="40"
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
 <a>
     <img
