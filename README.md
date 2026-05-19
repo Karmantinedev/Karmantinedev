@@ -19,7 +19,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23F38020.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
- <img align="right" alt="anuhme" height="115px" src="./src/muhanimecode.gif"> 
+ <img align="center" alt="anuhme" height="120px" src="./src/muhanimecode.gif"> 
 
 <h3 align="center">Me siga em outros lugares!</h3>
 
