@@ -13,7 +13,6 @@ alt="[meulink]" height="30" width="40"
 ></b> 
 </p>
 
----
 
 ### Linguagens e ferramentas
 
