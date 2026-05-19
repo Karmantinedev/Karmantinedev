@@ -6,15 +6,6 @@
 
 ---
 
-<h3 align="center">Me siga em outros lugares!</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/joaopedrogonzaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaopedrogonzaga/" height="30" width="40" /></a>
-<b href="[meulink]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-alt="[meulink]" height="30" width="40"
-></b> 
-</p>
-
 <h3 align="center">Linguagens e ferramentas</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,6 +18,15 @@ alt="[meulink]" height="30" width="40"
 ![Mysql](https://img.shields.io/badge/mysql-%23EF4444.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23F38020.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<h3 align="center">Me siga em outros lugares!</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/joaopedrogonzaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaopedrogonzaga/" height="30" width="40" /></a>
+<b href="[meulink]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+alt="[meulink]" height="30" width="40"
+></b> 
+</p>
 
 ---
 <h3 align="center">GitHub Stats</h3>
