@@ -1,6 +1,6 @@
 <h1 align="center">João Souza</h1>
 
- Olá! Meu nome é João Pedro Gonzaga dos Santos Souza, tenho 20 anos e curso Engenharia de Software na UNB (Universidade de Brasília).
+ Olá! Meu nome é João Pedro Gonzaga dos Santos Souza, tenho 21 anos e curso Engenharia de Software na UNB (Universidade de Brasília).
 
  Tenho experiência na área de desenvolvimento de software, e sempre estou aberto a novas oportunidades de crescer como programador!
 
